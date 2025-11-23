@@ -1,0 +1,5 @@
+{
+  "name": "WhatsPilot - Gestionnaire Intelligent",
+  "description": "Une interface de pilotage pour WhatsApp avec résumés IA et alertes intelligentes, conçue pour s'interfacer avec un scraper.",
+  "requestFramePermissions": []
+}
